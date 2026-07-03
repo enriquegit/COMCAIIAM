@@ -1,6 +1,5 @@
 ---
 layout: default
-theme: jekyll-theme-slate
 title: COMCAIIAM: Combate Contra Amenazas en Internet Usando Inteligencia Artificial Multivista
 ---
 

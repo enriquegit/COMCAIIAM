@@ -1,7 +1,5 @@
----
-layout: default
-title: COMCAIIAM: Combate Contra Amenazas en Internet Usando Inteligencia Artificial Multivista
----
+
+
 
 
 # 🚀 Objetivo
